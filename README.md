@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mgorshkov
 - 👀 I’m interested in solving mathematical and programming puzzles
-- 🌱 I’m currently learning Deep Learning and Machine Learning
+- 🌱 I’m currently keen on Deep Learning and Machine Learning
+- 🤗 I created a repo mimicking numpy array in C++: https://github.com/mgorshkov/np
 - 💞️ I’m looking to collaborate on DL/ML projects
 - 📫 How to reach me @mikhail_gorshkov in Telegram
 
