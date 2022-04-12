@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mgorshkov
+- 🖥️ I'm currently looking for remote/hybrid C++ positions
 - 👀 I’m interested in solving mathematical and programming puzzles
 - 🌱 I’m currently keen on Deep Learning and Machine Learning
 - 🤗 I created a repo mimicking numpy array in C++: https://github.com/mgorshkov/np
