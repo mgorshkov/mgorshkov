@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @mgorshkov
-- 👀 I’m interested in solving mathematical and programming puzzles
-- 🌱 I’m currently keen on Deep Learning and Machine Learning
-- 🤗 I created git repos mimicking numpy array and ML methods in C++: https://github.com/mgorshkov/np, https://github.com/mgorshkov/pd, https://github.com/mgorshkov/scipy, https://github.com/mgorshkov/sklearn
-- 💞️ I’m looking to collaborate on DL/ML-related projects, including but not limited to tools for data scientists
-- 📫 How to reach me @mikhail_gorshkov in Telegram
+# 👋 Hi, I'm @mgorshkov
+
+I am a software engineer passionate about mathematics, machine learning, and building high-performance tools.
+
+---
+
+### 🚀 What I Do
+* 🧠 **Interests:** Solving mathematical and programming puzzles.
+* 🌱 **Focus:** Deep Learning (DL) and Machine Learning (ML).
+* 🛠️ **Creator of:** [Tinycoder](https://github.com/mgorshkov/tinycoder) — an ultra-fast AI coding plugin for VS Code.
+
+### 📦 C++ Data Science Ecosystem
+I have recreated popular Python data science libraries from scratch in C++:
+* 🔢 **[np](https://github.com/mgorshkov/np):** N-dimensional arrays and numerical routines.
+* 🐼 **[pd](https://github.com/mgorshkov/pd):** Data manipulation and DataFrame structures.
+* 🧪 **[scipy](https://github.com/mgorshkov/scipy):** Advanced scientific and technical computing.
+* 🤖 **[sklearn](https://github.com/mgorshkov/sklearn):** Machine learning algorithms and tools.
+
+---
+
+### 🤝 Collaboration & Contact
+* 💞️ **Looking to collaborate on:** DL/ML-related projects and developer tools for data scientists.
+* Telegram: [@mikhail_gorshkov](https://t.me)
 
 <!---
 mgorshkov/mgorshkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
