@@ -5,11 +5,13 @@ I am a software engineer passionate about mathematics, machine learning, and bui
 ---
 
 ### 🚀 What I Do
-* 🧠 **Interests:** Solving mathematical and programming puzzles.
+* 🧠 **Interests:** Coding, including vibecoding, nusic, solving mathematical and programming puzzles.
 * 🌱 **Focus:** Deep Learning (DL) and Machine Learning (ML).
-* 🛠️ **Creator of:** [Tinycoder](https://github.com/mgorshkov/tinycoder) — an ultra-fast AI coding plugin for VS Code.
+* 🛠️ **Creator of:** [Tinycoder](https://github.com/mgorshkov/tinycoder) — High-Performant Local AI VS Code extension.
 
 ### 📦 C++ Data Science Ecosystem
+* 🛠️ **[tinycoder-inference](https://github.com/mgorshkov/tinycoder-inference):** High-Performant Local AI inference engine.
+
 I have recreated popular Python data science libraries from scratch in C++:
 * 🔢 **[np](https://github.com/mgorshkov/np):** N-dimensional arrays and numerical routines.
 * 🐼 **[pd](https://github.com/mgorshkov/pd):** Data manipulation and DataFrame structures.
