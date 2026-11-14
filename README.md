@@ -5,12 +5,14 @@ I am a software engineer passionate about mathematics, machine learning, and bui
 ---
 
 ### 🚀 What I Do
-* 🧠 **Interests:** Coding, including vibecoding, nusic, solving mathematical and programming puzzles.
-* 🌱 **Focus:** Deep Learning (DL) and Machine Learning (ML).
-* 🛠️ **Creator of:** [Tinycoder](https://github.com/mgorshkov/tinycoder) — High-Performant Local AI VS Code extension.
+* 🧠 **Interests:** Coding, including vibecoding, music, solving mathematical and programming puzzles.
+* 🌱 **Focus:** Deep Learning, Machine Learning, AI.
+* 🛠️ **Creator of:** [Tinycoder](https://github.com/mgorshkov/tinycoder) — High-Performant Local AI ecosystem.
 
-### 📦 C++ Data Science Ecosystem
-* 🛠️ **[tinycoder-inference](https://github.com/mgorshkov/tinycoder-inference):** High-Performant Local AI inference engine.
+### 📦 C++/Go AI Ecosystem
+* 🛠️ **[tinycoder-inference](https://github.com/mgorshkov/tinycoder-inference):** High-Performant Local AI inference engine (C++).
+* 🛠️ **[tinycoder-openai](https://github.com/mgorshkov/tinycoder-openai)** Open AI provider (TypeScript).
+* 🛠️ **[tinycoder](https://github.com/mgorshkov/tinycoder)** Local VSCode AI coding plugin (Golang).
 
 I have recreated popular Python data science libraries from scratch in C++:
 * 🔢 **[np](https://github.com/mgorshkov/np):** N-dimensional arrays and numerical routines.
@@ -21,7 +23,7 @@ I have recreated popular Python data science libraries from scratch in C++:
 ---
 
 ### 🤝 Collaboration & Contact
-* 💞️ **Looking to collaborate on:** DL/ML-related projects and developer tools for data scientists.
+* 💞️ **Looking to collaborate on:** AI-related projects and developer tools for vibecoding.
 * Telegram: [@mikhail_gorshkov](https://t.me)
 
 <!---
