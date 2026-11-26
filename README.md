@@ -10,9 +10,9 @@ I am a software engineer passionate about mathematics, machine learning, and bui
 * 🛠️ **Creator of:** [Tinycoder](https://github.com/mgorshkov/tinycoder) — High-Performant Local AI ecosystem.
 
 ### 📦 C++/Go AI Ecosystem
-* 🛠️ **[tinycoder-inference](https://github.com/mgorshkov/tinycoder-inference):** High-Performant Local AI inference engine (C++).
-* 🛠️ **[tinycoder-openai](https://github.com/mgorshkov/tinycoder-openai)** Open AI provider (TypeScript).
-* 🛠️ **[tinycoder](https://github.com/mgorshkov/tinycoder)** Local VSCode AI coding plugin (Golang).
+* 🛠️ **[tinycoder-inference](https://github.com/mgorshkov/tinycoder-inference)** High-Performant AI inference engine for NVIDIA GPUs (Turing / Ampere / Ada) (C++/CUDA).
+* 🛠️ **[tinycoder-openai](https://github.com/mgorshkov/tinycoder-openai)** Open AI provider for TinyCoder inference engine (Golang).
+* 🛠️ **[tinycoder](https://github.com/mgorshkov/tinycoder)** Local VSCode AI coding plugin (TypeScript).
 
 I have recreated popular Python data science libraries from scratch in C++:
 * 🔢 **[np](https://github.com/mgorshkov/np):** N-dimensional arrays and numerical routines.
@@ -24,7 +24,7 @@ I have recreated popular Python data science libraries from scratch in C++:
 
 ### 🤝 Collaboration & Contact
 * 💞️ **Looking to collaborate on:** AI-related projects and developer tools for vibecoding.
-* Telegram: [@mikhail_gorshkov](https://t.me)
+* Telegram: [@mikhail_gorshkov](https://t.me/mikhail_gorshkov)
 
 <!---
 mgorshkov/mgorshkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
